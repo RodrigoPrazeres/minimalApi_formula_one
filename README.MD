@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="./.github/assets/blue-saiyan-bg.png" alt="Logo" height="200">
-  <h1 align="center"><strong>Minimap API - Formula 1</strong></h1>
+  <h1 align="center"><strong>Minimal API - Formula 1</strong></h1>
   <p align="center">
 	 Minimal API created with nodeJS, fastify and typescript to filter drivers from formula1
   </p>
